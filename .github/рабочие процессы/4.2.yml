@@ -2,11 +2,11 @@ name: 4.2
 on:
 push:
 branches:
-- BackendApiПокупатель
+- 4.2
 - master
 pull_request:
 branches:
-- BackendApiПокупатель
+- 4.2
 - master
 jobs:
 build:
