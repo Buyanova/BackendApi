@@ -1,1 +1,1 @@
-# Создано API с помощью Visual Studio шаблона Web API
+# Создано API с помощью среды разрботки Visual Studio и шаблона Web API
